@@ -69,7 +69,7 @@ nav .col-4 div,
 }
 
 .section-two-text {
-  margin-right: 130px;
+  /* margin-right: 130px; */
 }
 
 .section-two button {
@@ -121,23 +121,7 @@ nav .col-4 div,
 .section-three-text p {
   font-size: 12px;
   line-height: 18px;
-  text-align:left;
-}
-
-.info-img.one img {
-  margin-left: 72px;
-}
-
-.info-img.two img {
-  margin-left: 72px;
-}
-
-.info-img.three img {
-  margin-left: 72px;
-}
-
-.info-img.four img {
-  margin-left: 82px;
+  /* text-align:left; */
 }
 
 
